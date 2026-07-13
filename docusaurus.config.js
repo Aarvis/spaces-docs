@@ -13,15 +13,15 @@ const config = {
   tagline:'',
 
   // Set the production url of your site here
-  url: 'https://gamespaces.xyz',
+  url: 'https://aarvis.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/spaces-docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Spaces-Ads', // Usually your GitHub org/user name.
-  projectName: 'Spaces-Docs', // Usually your repo name.'
+  organizationName: 'aarvis', // Usually your GitHub org/user name.
+  projectName: 'spaces-docs', // Usually your repo name.'
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
