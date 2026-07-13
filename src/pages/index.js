@@ -14,13 +14,11 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}
+          Spaces
         </Heading>
-        {/* <button  style={{backgroundColor:"transparent", borderWidth:"0px"}}onClick={()=>{
-          window.open("https://gamespaces.xyz")
-        }}>
-        <p className="hero__subtitle" style={{color:'black', fontFamily:'Black Ops One'}}>{siteConfig.tagline}</p>
-        </button> */}
+        <p className="hero__subtitle" style={{color:'black', fontFamily:'Black Ops One'}}>
+          Immersive Branded Game Experiences at Scale
+        </p>
         <div className={styles.buttons} style={{marginTop:'30px'}}>
           <Link
             className="button button--secondary button--lg"
