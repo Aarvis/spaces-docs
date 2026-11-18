@@ -6,37 +6,37 @@ sidebar_position: 3
 
 ## FishBone
 <video controls width="800">
-  <source src="https://gamespaces.store/spaces-docs-videos/TrashCat-Doc-Demo-Video11.mp4" type="video/mp4" />
+  <source src="https://assets.gamespaces.xyz/spaces-docs-videos/TrashCat-Doc-Demo-Video11.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
 ## Sardines
 <video controls width="800">
-  <source src="https://gamespaces.store/spaces-docs-videos/TrashCat-Doc-Demo-Video12.mp4" type="video/mp4" />
+  <source src="https://assets.gamespaces.xyz/spaces-docs-videos/TrashCat-Doc-Demo-Video12.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
 ## Magnet
 <video controls width="800">
-  <source src="https://gamespaces.store/spaces-docs-videos/TrashCat-Doc-Demo-Video13.mp4" type="video/mp4" />
+  <source src="https://assets.gamespaces.xyz/spaces-docs-videos/TrashCat-Doc-Demo-Video13.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
 ## Obstacle Bin
 <video controls width="800">
-  <source src="https://gamespaces.store/spaces-docs-videos/TrashCat-Doc-Demo-Video14.mp4" type="video/mp4" />
+  <source src="https://assets.gamespaces.xyz/spaces-docs-videos/TrashCat-Doc-Demo-Video14.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
 ## Obstacle Wheely Bin
 <video controls width="800">
-  <source src="https://gamespaces.store/spaces-docs-videos/TrashCat-Doc-Demo-Video15.mp4" type="video/mp4" />
+  <source src="https://assets.gamespaces.xyz/spaces-docs-videos/TrashCat-Doc-Demo-Video15.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
 ## Character
 <video controls width="800">
-  <source src="https://gamespaces.store/spaces-docs-videos/TrashCat-Doc-Demo-Video16.mp4" type="video/mp4" />
+  <source src="https://assets.gamespaces.xyz/spaces-docs-videos/TrashCat-Doc-Demo-Video16.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 

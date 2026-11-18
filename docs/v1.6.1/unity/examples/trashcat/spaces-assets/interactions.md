@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Interactions
 <video controls width="800">
-  <source src="https://gamespaces.store/spaces-docs-videos/TrashCat-Doc-Demo-Video17.mp4" type="video/mp4" />
+  <source src="https://assets.gamespaces.xyz/spaces-docs-videos/TrashCat-Doc-Demo-Video17.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 

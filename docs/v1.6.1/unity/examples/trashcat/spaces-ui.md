@@ -6,7 +6,7 @@ sidebar_position: 4
 
 ## ADDING TO GAME SCENE
 <video controls width="800">
-  <source src="https://gamespaces.store/spaces-docs-videos/TrashCat-Doc-Demo-Video18.mp4" type="video/mp4" />
+  <source src="https://assets.gamespaces.xyz/spaces-docs-videos/TrashCat-Doc-Demo-Video18.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -36,7 +36,7 @@ You will find these UI prefabs under **```.\Spaces\UI\```**
 
 ## PASS INPUTS BASED ON YOUR GAME
 <video controls width="800">
-  <source src="https://gamespaces.store/spaces-docs-videos/TrashCat-Doc-Demo-Video19.mp4" type="video/mp4" />
+  <source src="https://assets.gamespaces.xyz/spaces-docs-videos/TrashCat-Doc-Demo-Video19.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 

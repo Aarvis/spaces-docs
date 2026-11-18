@@ -7,7 +7,7 @@ sidebar_position: 5
 ## CDN Setup
 
 <video controls width="800">
-  <source src="https://gamespaces.store/spaces-docs-videos/TrashCat-Doc-Demo-Video20.mp4" type="video/mp4" />
+  <source src="https://assets.gamespaces.xyz/spaces-docs-videos/TrashCat-Doc-Demo-Video20.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -46,7 +46,7 @@ Do not alter the Build Path, set the Load Path to **Spaces Load Path**.
 ## CDN Asset-Linking
 
 <video controls width="800">
-  <source src="https://gamespaces.store/spaces-docs-videos/TrashCat-Doc-Demo-Video21.mp4" type="video/mp4" />
+  <source src="https://assets.gamespaces.xyz/spaces-docs-videos/TrashCat-Doc-Demo-Video21.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -66,7 +66,7 @@ Cool, Integration is Done.
 
 ## Running Campaigns Workflow.
 <video controls width="800">
-  <source src="https://gamespaces.store/spaces-docs-videos/TrashCat-Doc-Demo-Video22.mp4" type="video/mp4" />
+  <source src="https://assets.gamespaces.xyz/spaces-docs-videos/TrashCat-Doc-Demo-Video22.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 

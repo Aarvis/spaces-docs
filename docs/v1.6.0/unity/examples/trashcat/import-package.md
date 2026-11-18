@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Download Dependencies
 <video controls width="800">
-  <source src="https://gamespaces.store/spaces-docs-videos/TrashCat-Doc-Demo-Video1.mp4" type="video/mp4" />
+  <source src="https://assets.gamespaces.xyz/spaces-docs-videos/TrashCat-Doc-Demo-Video1.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -17,7 +17,7 @@ sidebar_position: 1
 
 ## Import Spaces Plugin
 <video controls width="800">
-  <source src="https://gamespaces.store/spaces-docs-videos/TrashCat-Doc-Demo-Video2.mp4" type="video/mp4" />
+  <source src="https://assets.gamespaces.xyz/spaces-docs-videos/TrashCat-Doc-Demo-Video2.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 

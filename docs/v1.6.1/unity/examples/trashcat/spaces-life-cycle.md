@@ -11,7 +11,7 @@ The Spaces Ad-Engine lifecycle states that must align with your game's lifecycle
 Let's start with the very first scene of your game, the Loading Scene or Splash Screen. Trash Cat game does not a default Splash or Loading Screen, therefore we will follow **```If Your Game Does Not Have a Loading Scene```**
 
 <video controls width="800">
-  <source src="https://gamespaces.store/spaces-docs-videos/TrashCat-Doc-Demo-Video3.mp4" type="video/mp4" />
+  <source src="https://assets.gamespaces.xyz/spaces-docs-videos/TrashCat-Doc-Demo-Video3.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -36,7 +36,7 @@ Feel free to modify the loading screen UI as needed. By default, the scene inclu
 
 ## UPDATE
 <video controls width="800">
-  <source src="https://gamespaces.store/spaces-docs-videos/TrashCat-Doc-Demo-Video4.mp4" type="video/mp4" />
+  <source src="https://assets.gamespaces.xyz/spaces-docs-videos/TrashCat-Doc-Demo-Video4.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
